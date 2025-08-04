@@ -78,7 +78,5 @@
 
 ## 👩‍💻 Author
 **Jameel Bsata**  
-GitHub: [@Jamster187](https://github.com/Jamster187)
-
 ---
 
